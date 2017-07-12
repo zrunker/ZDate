@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZDate.iml" filepath="$PROJECT_DIR$/ZDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zdatelib/zdatelib.iml" filepath="$PROJECT_DIR$/zdatelib/zdatelib.iml" />
+    </modules>
+  </component>
+</project>
